@@ -1,4 +1,4 @@
-## Oi meu nome é Guilherme Souto, sou um estudante de programação💻!
+## Oi meu nome é Guilherme, sou um estudante de programação💻!
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui1sSss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1Sss&layout=compact&theme=dracula&hide_progress=true)
