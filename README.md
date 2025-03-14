@@ -6,7 +6,7 @@
 ### Linguagens Mais Usadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1Ss&layout=compact&theme=dracula&hide_progress=true)
 
- ## Redes Sociais 
+ ### Redes Sociais 
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-72b62a262/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiih_souto/)
