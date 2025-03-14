@@ -1,16 +1,11 @@
 ## Oi meu nome é Guilherme Souto, sou um estudante de programação💻!
 
-<div style="display: inline_block"><br>
-  <img src = https://programadorviking.com.br/wp-content/uploads/2020/11/Os-Melhores-Sites-Para-Desafios-de-Programacao.jpg>
-<br>
-</div>
-<div> 
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui1sSss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1Sss&layout=compact&theme=dracula&hide_progress=true)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-72b62a262/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiih_souto/)
-
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui1sSss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1Sss&layout=compact&theme=dracula&hide_progress=true)
+<br>
 
  # 🛠️ Técnologias que estou aprendendo
 
