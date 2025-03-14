@@ -1,6 +1,9 @@
 ## Oi meu nome é Guilherme, sou um estudante de programação💻!
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui1sSss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)<br/>
+### Minhas Estatísticas no GitHub:
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui1sSss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+### Linguagens Mais Usadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1Sss&layout=compact&theme=dracula&hide_progress=true)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-72b62a262/)
