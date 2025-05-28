@@ -1,4 +1,5 @@
 💼 Trabalho atualmente como Assistente de T.I na Salutem  
+📓 Faço ADS no IFSP
 💡 Estou sempre buscando me aprimorar como dev
 
 ---
