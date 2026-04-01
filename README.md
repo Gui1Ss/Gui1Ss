@@ -1,25 +1,37 @@
+<h1 align="">👋 Olá, meu nome é Guilherme</h1>
+
+
+## 💡 Sobre mim
+
 💼 Trabalho atualmente como Assistente de T.I na Salutem  
 📓 Faço ADS no IFSP
 💡 Estou sempre buscando me aprimorar como dev
 
 ---
 
-## 🛠️ Tecnologias que sei/estou aprendendo:
+## 🚀 Tecnologias que estou aprendendo
 
-<div style="display: flex; flex-wrap: wrap; gap: 6px;">
-
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" title="C"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" title="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" title="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" title="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" title="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" title="CSS3"/>
-
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 🌐 Redes Sociais:
+## 📈 GitHub Stats
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-oliveirs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-oliveirs&layout=compact&theme=dracula&hide_title=true" height="150"/>
+
+---
+
+## 🌐 Redes Sociais
 
 <a href="https://www.linkedin.com/in/guilherme-silva-72b62a262/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn">
