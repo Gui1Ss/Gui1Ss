@@ -4,9 +4,9 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no IFSP.
 💼 Atualmente atuo como **Estagiário de T.I. na ControlXRM Software**.
-🚀 Buscando evoluir constantemente na área de **Tecnologia e Desenvolvimento de Software**.
+🚀 Estou sempre buscando aprimorar meus conhecimentos e evoluir como **desenvolvedor**.
 
-## 🛠️ Tecnologias
+## 🚀 Tecnologias
 
 ### 💼 Tecnologias que utilizo no trabalho
 
@@ -19,12 +19,21 @@
 
 **C# • SQL • SQL Server • Git • GitHub • GitHub Pages**
 
-### 📚 Atualmente estudando
+### 📚 Tecnologias que estou estudando
 
-* Desenvolvimento de software
-* Programação em C#
-* Banco de dados e SQL
-* Desenvolvimento Web
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+</div>
+
+**HTML • CSS • JavaScript • Java • Python**
 
 ## 🌐 Redes Sociais
 
