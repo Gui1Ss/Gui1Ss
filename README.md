@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </div>
 
-**HTML • CSS • JavaScript • Java • Python**
+**C# • SQL • SQL Server • Git • GitHub • GitHub Pages • HTML • CSS • JavaScript • Java • Python**
 
 ## 🌐 Redes Sociais
 
